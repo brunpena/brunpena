@@ -14,3 +14,4 @@ Ah, e se olhar com atenção o gráfico de contribuições... tem uma cobrinha e
 
 
 ![snake gif](https://github.com/brunpena/brunpena/blob/output/github-snake.svg)
+
