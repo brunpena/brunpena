@@ -1,16 +1,16 @@
-## Hi there 👋
+# Fala aí, eu sou o Bruno 👨‍💻
 
-<!--
-**brunpena/brunpena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou dev fullstack — meto a mão em Python, C, JavaScript e ainda troco ideia com o Arduino quando ele colabora ⚙️  
+Gosto de código limpo, ideias sujas e café forte ☕  
 
-Here are some ideas to get you started:
+Se não tô programando, provavelmente tô tocando uma guitarra ou pensando no próximo projeto doido.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📲 Me chama no Instagram:
+[@brunpena](https://instagram.com/brunpena)
+
+---
+
+Ah, e se olhar com atenção o gráfico de contribuições... tem uma cobrinha escondida por lá 🐍
+
+
+![snake gif](https://github.com/brunpena/brunpena/blob/output/github-snake.svg)
