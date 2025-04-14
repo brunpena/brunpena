@@ -10,13 +10,13 @@ Sou desenvolvedor fullstack, e me viro bem com **JavaScript, C, Python** e até 
 
 <div align="center">
   <a href="https://www.instagram.com/brunin_ep" target="_blank">
-    <img src="https://img.shields.io/badge/@brunin_ep-111111?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
   <a href="mailto:brunopena454@gmail.com">
-    <img src="https://img.shields.io/badge/brunopena454@gmail.com-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    <img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
   <a href="https://discord.gg/HhDPDPbA" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-111111?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+    <img src="https://img.shields.io/badge/Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
 </div>
 
@@ -25,22 +25,24 @@ Sou desenvolvedor fullstack, e me viro bem com **JavaScript, C, Python** e até 
 ## 🧠 Skills
 
 <div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
-  <img src="https://img.shields.io/badge/C-111111?style=for-the-badge&logo=c&logoColor=white" alt="C">
-  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=306998" alt="Python">
-  <img src="https://img.shields.io/badge/Arduino-111111?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino">
-</div>
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/Python-%233766AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Arduino-%2300979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino">
+</div
 
 ---
 
 ## 📊 GitHub Stats
 
+<div align="center">
 
-
-![brunpena's GitHub Stats](https://github-readme-stats.vercel.app/api?username=brunpena&show_icons=true&theme=github_dark&hide_border=true&hide_title=true)  
+![brunpena's GitHub Stats](https://github-readme-stats.vercel.app/api?username=brunpena&show_icons=true&theme=github_dark&hide_border=true&hide_title=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunpena&layout=compact&theme=github_dark&hide_border=true)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=brunpena&theme=github-compact&hide_border=true)
+
+</div>
 
 ---
 
