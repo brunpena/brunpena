@@ -1,7 +1,7 @@
 # 👋 E aí, tudo certo?
 
 Me chamo **Bruno Eduardo Pena**, mas pode chamar de **Brunin** 🧃  
-Tenho 17 anos e sou estudante da UTFPR — técnico integrado em informática.  
+Tenho 18 anos e sou estudante da UTFPR — Técnico Integrado em Informática.  
 Sou desenvolvedor fullstack, e me viro bem com **JavaScript, C, Python** e até com o **Arduino**, quando ele resolve colaborar ⚙️
 
 ---
@@ -43,6 +43,3 @@ Sou desenvolvedor fullstack, e me viro bem com **JavaScript, C, Python** e até 
 
 ![snake gif](https://raw.githubusercontent.com/brunpena/brunpena/output/github-snake-dark.svg)
 
-
-
-![snake gif](https://github.com/brunpena/brunpena/blob/output/github-snake.svg)
