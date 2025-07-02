@@ -1,8 +1,8 @@
 # 👋 Olá! Seja bem-vindo(a) ao meu perfil!
 
-Meu nome é **Bruno Eduardo Pena**. Tenho 18 anos, sou estudante do Ensino Médio Integrado em Desenvolvimento de Sistemas na **UTFPR** e atuo como **Desenvolvedor Full Stack**.  
-Tenho experiência prática em **C, C++, Python, TypeScript, JavaScript, HTML5, CSS**, além de amplo interesse em **bancos de dados** como **SQL Server**, **MySQL**, **MachBase Neo** e **Supabase**.  
-Sou motivado por desafios que envolvem integração, automação e soluções de alta performance para web.
+Meu nome é **Bruno Eduardo Pena**, tenho 18 anos e sou estudante do Ensino Médio Integrado em Desenvolvimento de Sistemas na **UTFPR**.  
+Atuo como **Desenvolvedor Full Stack**, com experiência prática em **C**, **C++**, **Python**, **TypeScript**, **JavaScript**, **HTML5**, **CSS**, além de amplo conhecimento em **bancos de dados** como **SQL Server**, **MySQL**, **MachBase Neo** e **Supabase**.  
+Sou motivado por desafios de integração, automação e desenvolvimento de soluções web de alta performance.
 
 ---
 
@@ -15,8 +15,8 @@ Sou motivado por desafios que envolvem integração, automação e soluções de
   <a href="https://www.instagram.com/brunin_ep" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="https://discord.gg/HhDPDPbA" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  <a href="https://wa.me/55SEUNUMERO" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
 </div>
 
@@ -40,12 +40,20 @@ Sou motivado por desafios que envolvem integração, automação e soluções de
 
 ---
 
-## 📌 Sobre Mim
+## 🚀 Principais Projetos
 
-- 🎓 Técnico em Desenvolvimento de Sistemas pela **UTFPR** (2022–2025)
-- 🚀 Experiência em **bancos de dados relacionais** e **NoSQL**
-- 💡 Desenvolvimento **front-end** e **back-end** para soluções web e automações
-- 🔗 Focado em projetos **remotos**, colaborativos e com entregas de qualidade
+A seguir, alguns dos projetos que desenvolvi ou contribuí:
+
+- **[Nome do Projeto 1](https://linkdoproyecto.com)**  
+  Descrição resumida do projeto, stack utilizada, principais resultados ou objetivos alcançados.
+
+- **[Nome do Projeto 2](https://linkdoproyecto.com)**  
+  Descrição resumida do projeto, stack utilizada, principais resultados ou objetivos alcançados.
+
+- **[Nome do Projeto 3](https://linkdoproyecto.com)**  
+  Descrição resumida do projeto, stack utilizada, principais resultados ou objetivos alcançados.
+
+> *Substitua pelos seus links reais e atualize as descrições conforme necessário.*
 
 ---
 
