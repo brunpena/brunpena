@@ -47,7 +47,7 @@ Sou motivado por desafios de integração, automação e desenvolvimento de solu
 
 A seguir, alguns dos projetos que desenvolvi ou contribuí:
 
-- **[Nome do Projeto 1](https://linkdoproyecto.com)**  
+- **[Portfolio](https://portfolio-gray-eta-50.vercel.app/)**  
   Descrição resumida do projeto, stack utilizada, principais resultados ou objetivos alcançados.
 
 - **[Nome do Projeto 2](https://linkdoproyecto.com)**  
