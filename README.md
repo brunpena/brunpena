@@ -48,15 +48,8 @@ Sou motivado por desafios de integração, automação e desenvolvimento de solu
 A seguir, alguns dos projetos que desenvolvi ou contribuí:
 
 - **[Portfolio](https://portfolio-gray-eta-50.vercel.app/)**  
-  Descrição resumida do projeto, stack utilizada, principais resultados ou objetivos alcançados.
+  Desenvolvi uma página para demonstrar minhas habilidades em CSS, aplicando conceitos fundamentais no front-end e integrando com um back-end simples. O projeto evidencia atenção a detalhes, estrutura semântica e boas práticas de estilização.
 
-- **[Nome do Projeto 2](https://linkdoproyecto.com)**  
-  Descrição resumida do projeto, stack utilizada, principais resultados ou objetivos alcançados.
-
-- **[Nome do Projeto 3](https://linkdoproyecto.com)**  
-  Descrição resumida do projeto, stack utilizada, principais resultados ou objetivos alcançados.
-
-> *Substitua pelos seus links reais e atualize as descrições conforme necessário.*
 
 ---
 
