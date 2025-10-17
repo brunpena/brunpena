@@ -12,10 +12,10 @@ Sou motivado por desafios de integração, automação e desenvolvimento de solu
   <a href="mailto:brunopena454@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https://www.instagram.com/brunin_ep" target="_blank">
+  <a href="https://www.instagram.com/brunpena01" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="https://wa.me/55SEUNUMERO" target="_blank">
+  <a href="https://wa.me/5544997371077" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
 </div>
