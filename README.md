@@ -48,9 +48,8 @@ O projeto demonstra atenção aos detalhes, estruturação limpa e integração 
 ---
 
 ## 📬 Contato
-
 <div align="center">
-  <a href="mailto:brunopena454@gmail.com">
+  <a href="mailto:brunopena454@gmail.com" target="_blank">
     <img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Gmail"/>
   </a>
   <a href="https://wa.me/5544997371077" target="_blank">
@@ -59,10 +58,11 @@ O projeto demonstra atenção aos detalhes, estruturação limpa e integração 
   <a href="https://www.instagram.com/brunpena01" target="_blank">
     <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram"/>
   </a>
-  <a href="https://github.com/brunpena" target="_blank">
-    <img src="https://img.icons8.com/material-rounded/48/ffffff/github.png" alt="GitHub"/>
+  <a href="https://www.linkedin.com/in/brunpena" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/>
   </a>
 </div>
+
 
 ---
 
