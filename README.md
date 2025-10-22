@@ -1,4 +1,4 @@
-# 👋 Olá! Seja bem-vindo(a) ao meu perfil
+# 👋 Olá! Seja bem-vindo(a) ao meu perfil 
 
 Meu nome é **Bruno Pena**, tenho 18 anos e sou estudante do Ensino Médio Integrado em **Desenvolvimento de Sistemas** pela **UTFPR**.  
 Atuo como **Desenvolvedor Full Stack**, com experiência sólida em **C**, **C++**, **Python**, **TypeScript**, **JavaScript**, **HTML5** e **CSS3**.  
