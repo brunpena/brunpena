@@ -4,9 +4,6 @@ Meu nome é **Bruno Pena**, tenho 18 anos e sou estudante do Ensino Médio Integ
 Atuo como **Desenvolvedor Full Stack**, com experiência sólida em **C**, **C++**, **Python**, **TypeScript**, **JavaScript**, **HTML5** e **CSS3**.  
 Possuo também amplo domínio em **bancos de dados relacionais e não relacionais**, incluindo **SQL Server**, **MySQL**, **Supabase** e **MachBase Neo**.
 
-Sou **cofundador da [MP Dev](https://github.com/MP-Developing)**, uma empresa de tecnologia especializada em soluções de software sob medida.  
-Fundada com o propósito de transformar ideias em resultados, a MP Dev tem como pilares a **inovação**, a **eficiência** e a **excelência técnica**, auxiliando empresas e empreendedores a potencializarem seus negócios por meio da **transformação digital**.
-
 ---
 
 ## 💻 Principais Habilidades
