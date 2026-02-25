@@ -74,3 +74,19 @@ O projeto demonstra atenção aos detalhes, estruturação limpa e integração 
   ![snake gif](https://raw.githubusercontent.com/brunpena/brunpena/output/github-snake-dark.svg)
 
 </div>
+
+<br/>
+flowchart TD
+    A([Usuário Final]) -->|Acesso e Visualização| B[Frontend - Next.js]
+
+    B -->|APIs REST| C[Backend - Node.js / NestJS]
+    B <-->|WebSocket - Dados Real-Time| C
+
+    C -->|Autenticação e Transações| D[API Sicredi]
+    C -->|Emissão e Consulta| E[API Notas Fiscais]
+
+    D -->|Retorno de Dados Financeiros| C
+    E -->|Retorno de Notas| C
+
+    C -->|Push Dados Real-Time| B
+    B -->|Exibe Dados Atualizados| A
