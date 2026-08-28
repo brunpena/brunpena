@@ -1,108 +1,96 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Bruno%20Pena&fontSize=58&fontColor=ffffff&fontAlignY=34&animation=twinkling&desc=Full%20Stack%20Developer%20%7C%20Ciência%20da%20Computação%20-%20UTFPR&descSize=18&descAlignY=54"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=220&section=header&text=Bruno%20Pena&fontSize=58&fontColor=ffffff&fontAlignY=34&desc=Full%20Stack%20Developer%20%7C%20Ciência%20da%20Computação%20-%20UTFPR&descSize=18&descAlignY=54"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&height=45&lines=TypeScript+%7C+React+%7C+Next.js+%7C+NestJS;APIs%2C+SaaS+e+sistemas+multi-tenant;Transformando+ideias+em+software." alt="Typing SVG"/>
+<h3>TypeScript · React · Next.js · NestJS · PostgreSQL</h3>
+
+<p>APIs, sistemas SaaS e aplicações multi-tenant.</p>
+
+<a href="https://www.linkedin.com/in/brunpena"><img src="https://img.shields.io/badge/LinkedIn-1F6FEB?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:brunopena454@gmail.com"><img src="https://img.shields.io/badge/Gmail-1F6FEB?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://wa.me/5544997371077"><img src="https://img.shields.io/badge/WhatsApp-1F6FEB?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<a href="https://www.instagram.com/brunpena01"><img src="https://img.shields.io/badge/Instagram-1F6FEB?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
 <br/>
 
-<a href="https://www.linkedin.com/in/brunpena"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:brunopena454@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://wa.me/5544997371077"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-<a href="https://www.instagram.com/brunpena01"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=brunpena&style=flat-square&color=1f6feb&label=Visitas+no+perfil"/>
 
-<img src="https://komarev.com/ghpvc/?username=brunpena&style=flat-square&color=58A6FF&label=Visitas+no+perfil"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:58a6ff,100:0d1117&height=3&section=header"/>
 
-</div>
+<h2>Sobre mim</h2>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+<p>
+Tenho 19 anos e sou estudante de Ciência da Computação na UTFPR, onde ingressei em 2026.<br/>
+Gosto de transformar ideias em sistemas que realmente possam ser utilizados, cuidando do projeto<br/>
+desde a modelagem dos dados até o deploy em produção.
+</p>
 
-## 👋 Sobre mim
+<p>
+Atualmente foco em arquitetura de software, backend, bancos de dados,<br/>
+escalabilidade e desenvolvimento de produtos SaaS.
+</p>
 
-```ts
-const bruno = {
-  idade: 19,
-  formacao: "Ciência da Computação — UTFPR (2026)",
-  atuacao: "Full Stack Developer",
-  focoAtual: ["Arquitetura de software", "Backend", "Bancos de dados", "Escalabilidade", "SaaS"],
-  filosofia: "Transformar ideias em sistemas que realmente possam ser utilizados",
-};
-```
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:58a6ff,100:0d1117&height=3&section=header"/>
 
-Trabalho principalmente com desenvolvimento web, APIs e aplicações SaaS — do modelo de dados ao deploy.
+<h2>Stack</h2>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+<h4>Linguagens e Front-end</h4>
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css&theme=dark"/>
 
-## 🛠️ Stack
+<h4>Back-end e Dados</h4>
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,postgres,supabase,redis,prisma&theme=dark"/>
 
-<div align="center">
+<h4>Infra e Ferramentas</h4>
+<img src="https://skillicons.dev/icons?i=docker,git,github,vercel,linux,vscode&theme=dark"/>
 
-### Linguagens & Front-end
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css&theme=dark" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:58a6ff,100:0d1117&height=3&section=header"/>
 
-### Back-end & Dados
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,postgres,supabase,redis,prisma&theme=dark" />
+<h2>O que eu faço</h2>
 
-### Infra & Ferramentas
-<img src="https://skillicons.dev/icons?i=docker,git,github,vercel,linux,vscode&theme=dark" />
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
-## 🚀 O que eu faço
-
-<table>
+<table align="center">
 <tr>
-<td width="50%" valign="top">
-
-**Aplicações & Produto**
-- Desenvolvimento web full stack
-- Sistemas SaaS e multi-tenant
-- Sistemas em tempo real
-
+<th align="center">Aplicações e Produto</th>
+<th align="center">Plataforma e Integrações</th>
+</tr>
+<tr>
+<td align="center">
+Desenvolvimento web full stack<br/>
+Sistemas SaaS e multi-tenant<br/>
+Sistemas em tempo real
 </td>
-<td width="50%" valign="top">
-
-**Plataforma & Integrações**
-- APIs REST e integrações
-- Autenticação e autorização
-- Pagamentos e webhooks
-- Deploy e infraestrutura
-
+<td align="center">
+APIs REST e integrações<br/>
+Autenticação e autorização<br/>
+Pagamentos e webhooks<br/>
+Deploy e infraestrutura
 </td>
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:58a6ff,100:0d1117&height=3&section=header"/>
 
-## 📊 GitHub
+<h2>GitHub</h2>
 
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=brunpena&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&border_radius=10&cache_seconds=1800"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunpena&layout=compact&theme=github_dark&hide_border=true&border_radius=10&langs_count=8&cache_seconds=1800"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=brunpena&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&border_radius=10&cache_seconds=1800&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunpena&layout=compact&hide_border=true&border_radius=10&langs_count=8&cache_seconds=1800&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=brunpena&theme=github-compact&hide_border=true&radius=10"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=brunpena&hide_border=true&radius=10&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&area_color=1f6feb&title_color=58a6ff"/>
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=brunpena&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8"/>
+<img src="https://streak-stats.demolab.com?user=brunpena&hide_border=true&border_radius=10&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e&stroke=1f6feb&sideNums=c9d1d9&currStreakNum=ffffff"/>
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:58a6ff,100:0d1117&height=3&section=header"/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+<h2>Vamos conversar?</h2>
 
-<div align="center">
+<p>
+Estou sempre aberto a novos projetos, colaborações<br/>
+e trocas de ideia sobre arquitetura e produto.
+</p>
 
-### 💬 Vamos conversar?
-
-Estou sempre aberto a novos projetos, colaborações e trocas de ideia sobre arquitetura e produto.
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=140&section=footer&text=Transformando%20ideias%20em%20software.&fontSize=22&fontColor=ffffff&fontAlignY=75"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f6feb,100:0d1117&height=150&section=footer&text=Transformando%20ideias%20em%20software.&fontSize=22&fontColor=ffffff&fontAlignY=72"/>
 
 </div>
