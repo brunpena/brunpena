@@ -13,11 +13,9 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=brunpena&style=flat-square&color=1f6feb&label=Visitas+no+perfil"/>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:58a6ff,100:0d1117&height=3&section=header"/>
 
-<h2>Sobre mim</h2>
+<h3>Sobre mim</h3>
 
 <p>
 Tenho 19 anos e sou estudante de Ciência da Computação na UTFPR, onde ingressei em 2026.<br/>
@@ -32,7 +30,7 @@ escalabilidade e desenvolvimento de produtos SaaS.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:58a6ff,100:0d1117&height=3&section=header"/>
 
-<h2>Stack</h2>
+<h3>Stack</h3>
 
 <h4>Linguagens e Front-end</h4>
 <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css&theme=dark"/>
@@ -45,7 +43,7 @@ escalabilidade e desenvolvimento de produtos SaaS.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:58a6ff,100:0d1117&height=3&section=header"/>
 
-<h2>O que eu faço</h2>
+<h3>O que eu faço</h3>
 
 <table align="center">
 <tr>
@@ -69,22 +67,34 @@ Deploy e infraestrutura
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:58a6ff,100:0d1117&height=3&section=header"/>
 
-<h2>GitHub</h2>
+<h3>GitHub</h3>
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=brunpena&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&border_radius=10&cache_seconds=1800&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunpena&layout=compact&hide_border=true&border_radius=10&langs_count=8&cache_seconds=1800&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+<div align="center">
 
-<br/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunpena&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=brunpena&hide_border=true&radius=10&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&area_color=1f6feb&title_color=58a6ff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunpena&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
 
-<br/>
+</div>
 
-<img src="https://streak-stats.demolab.com?user=brunpena&hide_border=true&border_radius=10&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e&stroke=1f6feb&sideNums=c9d1d9&currStreakNum=ffffff"/>
+<br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:58a6ff,100:0d1117&height=3&section=header"/>
+<div align="center">
 
-<h2>Vamos conversar?</h2>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=brunpena&theme=github-compact&hide_border=true&radius=10"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=brunpena&theme=github-dark&hide_border=true&border_radius=10"/>
+
+</div>
+
+
+<h3>Vamos conversar?</h3>
 
 <p>
 Estou sempre aberto a novos projetos, colaborações<br/>
