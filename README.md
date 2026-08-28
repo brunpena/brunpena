@@ -1,140 +1,108 @@
-# 👋 Olá! Seja bem-vindo(a) ao meu perfil
-
-Meu nome é **Bruno Pena**, tenho 18 anos e sou estudante do **Ensino Médio Integrado em Desenvolvimento de Sistemas pela UTFPR**.
-
-Atuo como **Desenvolvedor Full Stack**, com experiência no desenvolvimento de aplicações web, APIs, sistemas SaaS e soluções orientadas a dados.
-
-Tenho experiência com **TypeScript, JavaScript, Python, C, C++, HTML5 e CSS3**, além de conhecimentos em bancos de dados relacionais e não relacionais, arquitetura de software, APIs REST, autenticação e integração de serviços.
-
-Atualmente, meu foco está no desenvolvimento de **sistemas modernos, escaláveis e fáceis de utilizar**, buscando unir uma boa experiência de usuário com uma arquitetura sólida no backend.
-
----
-
-## 💻 Principais Habilidades
-
-### Linguagens
-
-<div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
-</div>
-
-### Front-end & Back-end
-
-<div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="40" height="40" alt="NestJS"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="Tailwind CSS"/>
-</div>
-
-### Bancos de Dados & Serviços
-
-<div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40" alt="SQL Server"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="40" height="40" alt="Supabase"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40" alt="Redis"/>
-</div>
-
-### Ferramentas & Infraestrutura
-
-<div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40" height="40" alt="Vercel"/>
-</div>
-
----
-
-## ⚙️ Conhecimentos
-
-* Desenvolvimento **Full Stack**
-* Desenvolvimento de aplicações **SaaS**
-* Desenvolvimento de **APIs REST**
-* Arquitetura de aplicações web
-* Desenvolvimento de sistemas **multi-tenant**
-* Bancos de dados relacionais e não relacionais
-* Autenticação e autorização
-* Integração com APIs e serviços externos
-* Sistemas em tempo real
-* Webhooks
-* Pagamentos online
-* Deploy e infraestrutura
-* Desenvolvimento de interfaces responsivas
-* Git e controle de versões
-* Desenvolvimento orientado à escalabilidade e performance
-
----
-
-## 🚀 Projeto em Destaque
-
-### 🔹 [Portfolio](https://portfolio-gray-eta-50.vercel.app/)
-
-Desenvolvi um portfólio pessoal aplicando conceitos de **HTML semântico, CSS, responsividade e boas práticas de desenvolvimento web**.
-
-O projeto demonstra minha preocupação com **organização de código, experiência do usuário, responsividade e atenção aos detalhes de interface**.
-
----
-
-## 📊 Estatísticas do GitHub
-
 <div align="center">
 
-![Bruno Pena's GitHub Stats](https://github-readme-stats.vercel.app/api?username=brunpena\&show_icons=true\&theme=github_dark\&hide_border=true\&count_private=true\&include_all_commits=true)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Bruno%20Pena&fontSize=58&fontColor=ffffff&fontAlignY=34&animation=twinkling&desc=Full%20Stack%20Developer%20%7C%20Ciência%20da%20Computação%20-%20UTFPR&descSize=18&descAlignY=54"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brunpena\&layout=compact\&theme=github_dark\&hide_border=true)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&height=45&lines=TypeScript+%7C+React+%7C+Next.js+%7C+NestJS;APIs%2C+SaaS+e+sistemas+multi-tenant;Transformando+ideias+em+software." alt="Typing SVG"/>
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=brunpena\&theme=github-compact\&hide_border=true)
+<br/>
+
+<a href="https://www.linkedin.com/in/brunpena"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:brunopena454@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://wa.me/5544997371077"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<a href="https://www.instagram.com/brunpena01"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+
+<img src="https://komarev.com/ghpvc/?username=brunpena&style=flat-square&color=58A6FF&label=Visitas+no+perfil"/>
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-## 📬 Contato
+## 👋 Sobre mim
+
+```ts
+const bruno = {
+  idade: 19,
+  formacao: "Ciência da Computação — UTFPR (2026)",
+  atuacao: "Full Stack Developer",
+  focoAtual: ["Arquitetura de software", "Backend", "Bancos de dados", "Escalabilidade", "SaaS"],
+  filosofia: "Transformar ideias em sistemas que realmente possam ser utilizados",
+};
+```
+
+Trabalho principalmente com desenvolvimento web, APIs e aplicações SaaS — do modelo de dados ao deploy.
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
+## 🛠️ Stack
 
 <div align="center">
 
-<a href="mailto:brunopena454@gmail.com">
-    <img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Gmail"/>
-</a>
+### Linguagens & Front-end
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css&theme=dark" />
 
-<a href="https://wa.me/5544997371077">
-    <img src="https://img.icons8.com/color/48/whatsapp--v1.png" alt="WhatsApp"/>
-</a>
+### Back-end & Dados
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,postgres,supabase,redis,prisma&theme=dark" />
 
-<a href="https://www.instagram.com/brunpena01">
-    <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram"/>
-</a>
-
-<a href="https://www.linkedin.com/in/brunpena">
-    <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/>
-</a>
+### Infra & Ferramentas
+<img src="https://skillicons.dev/icons?i=docker,git,github,vercel,linux,vscode&theme=dark" />
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-## 🐍 Contribuições
+## 🚀 O que eu faço
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Aplicações & Produto**
+- Desenvolvimento web full stack
+- Sistemas SaaS e multi-tenant
+- Sistemas em tempo real
+
+</td>
+<td width="50%" valign="top">
+
+**Plataforma & Integrações**
+- APIs REST e integrações
+- Autenticação e autorização
+- Pagamentos e webhooks
+- Deploy e infraestrutura
+
+</td>
+</tr>
+</table>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
+## 📊 GitHub
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/brunpena/brunpena/output/github-snake-dark.svg)
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=brunpena&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&border_radius=10&cache_seconds=1800"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunpena&layout=compact&theme=github_dark&hide_border=true&border_radius=10&langs_count=8&cache_seconds=1800"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=brunpena&theme=github-compact&hide_border=true&radius=10"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=brunpena&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8"/>
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 <div align="center">
 
-**"Transformando ideias em soluções através da tecnologia."**
+### 💬 Vamos conversar?
+
+Estou sempre aberto a novos projetos, colaborações e trocas de ideia sobre arquitetura e produto.
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=140&section=footer&text=Transformando%20ideias%20em%20software.&fontSize=22&fontColor=ffffff&fontAlignY=75"/>
 
 </div>
