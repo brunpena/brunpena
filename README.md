@@ -67,33 +67,6 @@ Deploy e infraestrutura
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:58a6ff,100:0d1117&height=3&section=header"/>
 
-<h3>GitHub</h3>
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunpena&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunpena&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=brunpena&theme=github-compact&hide_border=true&radius=10"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=brunpena&theme=github-dark&hide_border=true&border_radius=10"/>
-
-</div>
-
-
 <h3>Vamos conversar?</h3>
 
 <p>
